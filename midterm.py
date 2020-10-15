@@ -1,8 +1,16 @@
 import doctest
 
+SMALL_SIZE_PRICE = 12
+MEDIUM_SIZE_PRICE = 15
+LARGE_SIZE_PRICE = 18
+
+
 def main():
-    value = input("Enter : ")
-    gct(value)
+    # value = input("Enter : ")
+    # gct(value)
+    # alterCase(value)
+    priceTShirt('M', '   \n\n\n    ')
+
 
 def gct(num):
     # only course materials used
@@ -22,5 +30,45 @@ def gct(num):
     result = gallons + 'g,' + cups.__str__() + 'c,' + tablespoons.__str__() + 't'
     print(result)
 
+
+def alterCase(string):
+    # only course materials used
+    count = 0
+    string = string.upper()
+    new = list(string)
+    for char in new:
+        if count % 2:
+            new[count] = char.lower()
+        count += 1
+    string = "".join(new)
+    print(string)
+
+
+def priceTShirt(size, slogan):
+    # only course materials used
+    slogan_price = 0
+    if size == 'S':
+        size_price = SMALL_SIZE_PRICE
+    elif size == 'M':
+        size_price = MEDIUM_SIZE_PRICE
+    elif size == 'L':
+        size_price = LARGE_SIZE_PRICE
+    else:
+        return
+    for char in slogan:
+        if char.islower():
+            slogan_price += 0.25
+        elif char.isupper():
+            slogan_price += 0.3
+        elif char == '.' or char == ',' or char == '!' or char == '\'' or char == '\"' or char == '?' or char == ':':
+            slogan_price += 0.2
+        elif char == ' ' or char == '\n':
+            pass
+    print(slogan_price + size_price)
+
+
+def benford():
+    # only course materials used
+    pass
 
 main()
