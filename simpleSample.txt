@@ -1,0 +1,5 @@
+name value
+aardvark 4,123
+big old bear 12.4
+crow  9.01
+duck duck goose 2,340,000

@@ -1,0 +1,234 @@
+Country/Territory	Population July 1, 2019
+ Vatican City[z]	799
+ Tokelau (New Zealand)	1,340
+ Niue (New Zealand)	1,615
+ Falkland Islands (United Kingdom)	3,377
+ Montserrat (United Kingdom)	4,989
+ Saint Pierre and Miquelon (France)	5,822
+ Saint Helena (United Kingdom)[y]	6,059
+ Nauru	10,756
+ Wallis and Futuna (France)	11,432
+ Tuvalu	11,646
+ Anguilla (United Kingdom)	14,869
+ Cook Islands (New Zealand)	17,548
+ Palau	18,008
+ Caribbean Netherlands (Netherlands)[x]	25,979
+ British Virgin Islands (United Kingdom)	30,030
+ Gibraltar (United Kingdom)	33,701
+ San Marino	33,860
+ Liechtenstein	38,019
+ Turks and Caicos Islands (United Kingdom)	38,191
+ Monaco	38,964
+ Sint Maarten (Netherlands)	42,388
+ Faroe Islands (Denmark)	48,678
+ Saint Kitts and Nevis	52,823
+ American Samoa (United States)	55,312
+ Northern Mariana Islands (United States)	56,188
+ Greenland (Denmark)	56,672
+ Marshall Islands	58,791
+ Bermuda (United Kingdom)	62,506
+ Cayman Islands (United Kingdom)	64,948
+ Dominica	71,808
+ Andorra	77,142
+ Isle of Man (United Kingdom)	84,584
+ Antigua and Barbuda	97,118
+ Seychelles	97,739
+ U.S. Virgin Islands (United States)	104,578
+ Aruba (Netherlands)	106,314
+ Saint Vincent and the Grenadines	110,589
+ Tonga	110,940
+ Grenada	112,003
+ F.S. Micronesia	113,815
+ Kiribati	117,606
+ Curaçao (Netherlands)	163,424
+ Guam (United States)	167,294
+ Channel Islands (United Kingdom)[w]	172,259
+ Saint Lucia	182,790
+ Western Samoa	197,097
+ São Tomé and Príncipe	215,056
+ Mayotte (France)	266,150
+ French Polynesia (France)	279,287
+ French Guiana (France)	282,731
+ New Caledonia (France)	282,750
+ Barbados	287,025
+ Vanuatu	299,882
+ Iceland	339,031
+ Martinique (France)	375,554
+ Bahamas	389,482
+ Belize	390,353
+ Brunei	433,285
+ Malta	440,372
+ Guadeloupe (France)[v]	447,905
+ Maldives	530,953
+ Cape Verde	549,935
+ Suriname	581,372
+ Western Sahara	582,463
+ Luxembourg	615,729
+ Montenegro	627,987
+ Macau (China)[u]	640,445
+ Solomon Islands	669,823
+ Bhutan	763,092
+ Guyana	782,766
+ Comoros	850,886
+ Réunion (France)	888,927
+ Fiji	889,953
+ Djibouti	973,560
+ Eswatini	1,148,130
+ Cyprus[t]	1,179,551
+ Mauritius[s]	1,198,575
+ East Timor	1,293,119
+ Estonia	1,325,648
+ Equatorial Guinea	1,355,986
+ Trinidad and Tobago	1,394,973
+ Bahrain	1,641,172
+ Latvia	1,906,743
+ Guinea-Bissau	1,920,922
+ Slovenia	2,078,654
+ North Macedonia	2,083,459
+ Lesotho	2,125,268
+ Gabon	2,172,579
+ Botswana	2,303,697
+ Gambia	2,347,706
+ Namibia	2,494,530
+ Lithuania	2,759,627
+ Qatar	2,832,067
+ Albania	2,880,917
+ Puerto Rico (United States)	2,933,408
+ Jamaica	2,948,279
+ Armenia	2,957,731
+ Mongolia	3,225,167
+ Bosnia and Herzegovina	3,301,000
+ Uruguay	3,461,734
+ Eritrea	3,497,117
+ Georgia[r]	3,996,765
+ Moldova[q]	4,043,263
+ Croatia	4,130,304
+ Kuwait	4,207,083
+ Panama	4,246,439
+ Mauritania	4,525,696
+ Central African Republic	4,745,185
+ New Zealand	4,783,063
+ Ireland	4,882,495
+ Liberia	4,937,374
+ Oman	4,974,986
+ Palestine[p]	4,981,420
+ Costa Rica	5,047,561
+ Norway[o]	5,378,857
+ Congo	5,380,508
+ Slovakia	5,457,013
+ Finland[n]	5,532,156
+ Denmark	5,771,876
+ Singapore	5,804,337
+ Turkmenistan	5,942,089
+ Kyrgyzstan	6,415,850
+ El Salvador	6,453,553
+ Nicaragua	6,545,502
+ Libya	6,777,452
+ Lebanon	6,855,713
+ Bulgaria	7,000,119
+ Paraguay	7,044,636
+ Laos	7,169,455
+ Hong Kong (China)[m]	7,436,154
+ Sierra Leone	7,813,215
+ Togo	8,082,366
+ Israel	8,519,377
+  Switzerland	8,591,365
+ Serbia[l]	8,772,235
+ Papua New Guinea	8,776,109
+ Austria	8,955,102
+ Tajikistan	9,321,018
+ Belarus	9,452,411
+ Hungary	9,684,679
+ Honduras	9,746,117
+ United Arab Emirates	9,770,529
+ Sweden	10,036,379
+ Azerbaijan[k]	10,047,718
+ Jordan	10,101,694
+ Portugal[j]	10,226,187
+ Greece	10,473,455
+ Czech Republic	10,689,209
+ Dominican Republic	10,738,958
+ Burundi	10,864,245
+ South Sudan	11,062,113
+ Haiti	11,263,770
+ Cuba	11,333,483
+ Bolivia	11,513,100
+ Belgium	11,539,328
+ Tunisia	11,694,719
+ Benin	11,801,151
+ Rwanda	12,626,950
+ Guinea	12,771,246
+ Zimbabwe	14,645,468
+ Somalia	15,442,905
+ Chad	15,946,876
+ Senegal	16,296,364
+ Cambodia	16,486,542
+ Syria	17,070,135
+ Netherlands[i]	17,097,130
+ Ecuador	17,373,662
+ Guatemala	17,581,472
+ Zambia	17,861,030
+ Kazakhstan	18,551,427
+ Malawi	18,628,747
+ Chile	18,952,038
+ Romania	19,364,557
+ Mali	19,658,031
+ Burkina Faso	20,321,378
+ Sri Lanka	21,323,733
+ Niger	23,310,715
+ Taiwan[h]	23,773,876
+ Australia[g]	25,203,198
+ North Korea	25,666,161
+ Ivory Coast	25,716,544
+ Cameroon	25,876,380
+ Madagascar	26,969,307
+ Venezuela	28,515,829
+   Nepal	28,608,710
+ Ghana	28,833,629
+ Yemen	29,161,922
+ Mozambique	30,366,036
+ Angola	31,825,295
+ Malaysia[f]	31,949,777
+ Peru	32,510,453
+ Uzbekistan	32,981,716
+ Saudi Arabia	34,268,528
+ Morocco	36,471,769
+ Canada	37,411,047
+ Poland	37,887,768
+ Afghanistan	38,041,754
+ Iraq	39,309,783
+ Sudan	42,813,238
+ Algeria	43,053,054
+ Ukraine[e]	43,993,638
+ Uganda	44,269,594
+ Argentina	44,780,677
+ Spain[d]	46,736,776
+ Colombia	50,339,443
+ South Korea	51,225,308
+ Kenya	52,573,973
+ Myanmar	54,045,420
+ Tanzania[c]	58,005,463
+ South Africa	58,558,270
+ Italy	60,550,075
+ France[b]	65,129,728
+ United Kingdom	67,530,172
+ Thailand	69,037,513
+ Iran	82,913,906
+ Turkey	83,429,615
+ Germany	83,517,045
+ DR Congo	86,790,567
+ Vietnam	96,462,106
+ Egypt	100,388,073
+ Philippines	108,116,615
+ Ethiopia	112,078,730
+ Japan	126,860,301
+ Mexico	127,575,529
+ Russia	145,872,256
+ Bangladesh	163,046,161
+ Nigeria	200,963,599
+ Brazil	211,049,527
+ Pakistan	216,565,318
+ Indonesia	270,625,568
+ United States	329,064,917
+ India	1,366,417,754
+ China[a]	1,433,783,686

@@ -1,0 +1,171 @@
+City Name/s	Elevation (m)
+Abu Dhabi	13
+Abuja	777
+Accra	98
+Addis Ababa	2,362
+Al Khartum / Khartoum	377
+Albuquerque	1,619
+Amman	1,094
+Ankara	938
+Antananarivo	1,288
+Ashgabat	215
+Asmara	2,363
+Astana	338
+Asuncion	54
+Athens	153
+Baghdad	40
+Baguio	1,540
+Bamako	349
+Bamyan	2,550
+Bangalore	920
+Bangkok	1
+Bangui	369
+Beijing	63
+Beirut	55
+Belgrade	116
+Berlin	34
+Bern	513
+Bishkek	771
+Bloemfontein	1,395
+Bogota	2,619
+Brasília	1,079
+Bratislava	131
+Brazzaville	155
+Brussels	13
+Bucharest	70
+Budapest	102
+Buenos Aires	10
+Bujumbura	794
+Cairo	22
+Calgary	1,045
+Canberra	605
+Caracas	909
+Chennai	6
+Chisinau	80
+Colombo	4
+Copenhagen	10
+Cusco	3,399
+Da Lat	1,500
+Dakar	37
+Dallas	131
+Damascus	691
+Denver	1,609
+Dhaka	3
+Dili	11
+Dodoma	1,148
+Doha	13
+Dublin	8
+Dushanbe	789
+Edmonton	645
+El Alto	4,100
+Freetown	76
+Gaborone	1,014
+Guadalajara	1,566
+Guatemala City	1,529
+Hanoi	25
+Harare	1,480
+Havana	4
+Helsinki	25
+Ho Chi Minh City	19
+Hyderabad	542
+Islamabad	587
+Jakarta	3
+Jerusalem	754
+Johannesburg	1,753
+Kabul	1,807
+Kampala	1,202
+Kathmandu	1,298
+Kiev	168
+Kigali	1,567
+Kingston	53
+Kinshasa	240
+Kuala Lumpur	60
+Kunming	1,892
+Kuwait City	5
+La Paz	3,812
+Laayoune / El Aaiun	72
+Lhasa	3,490
+Lilongwe	1,024
+Lima	107
+Lisbon	15
+Ljubljana	281
+Lome	63
+London	14
+Luanda	6
+Lusaka	1,270
+Madrid	588
+Managua	75
+Manila	7
+Maputo	63
+Maseru	1,673
+Masqat	68
+Mexico City	2,216
+Milan	122
+Minsk	198
+Montevideo	43
+Moscow	124
+Muqdisho / Mogadishu	28
+Nairobi	1,728
+Nassau (on New Providence)	2
+N'Djamena	298
+New Delhi	210
+Niamey	207
+Nouakchott	6
+Oslo	12
+Ottawa	70
+Ouagadougou	305
+Paramaribo	1
+Paris	34
+Phnom Penh	15
+Podgorica	61
+Port Louis	134
+Port Moresby	39
+Port-au-Prince	98
+Porto-Novo	38
+Prague	244
+Pretoria	1,339
+Pristina	652
+Puno	3,810
+Pyinmana	77
+Pyongyang	6
+Quito	2,850
+Rabat	53
+Riga	8
+Riyadh	624
+Rome	14
+San Jose	1,146
+San Salvador	658
+Sana'a	2,253
+Santiago	521
+São Tomé	141
+Sarajevo	577
+Seoul	33
+Shiraz	1,585
+Skardu	2,228
+Skopje	243
+Sofia	591
+Srinagar	1,585
+Stockholm	15
+Taipei	5
+Tallinn	37
+Tashkent	459
+Tbilisi	451
+Tegucigalpa	980
+Tehran	1,235
+Thimphu	2,307
+Tirana	110
+Tokyo	17
+Toluca	2,660
+Tripoli	6
+Ulan Bator	1,284
+Vienna	170
+Vientiane	148
+Vilnius	124
+Warsaw	93
+Washington D.C.	2
+Wellington	20
+Windhoek	1,655
+Yamoussoukro	217
+Yaoundé	726
+Yerevan	1,032
+Zagreb	130

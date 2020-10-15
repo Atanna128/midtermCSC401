@@ -5,6 +5,13 @@ MEDIUM_SIZE_PRICE = 15
 LARGE_SIZE_PRICE = 18
 
 
+def main():
+    # value = input("Enter : ")
+    # gct(312)
+    # alterCase(value)
+    # priceTShirt('M', '   \n\n\n    ')
+    # benford("MinnesotaLakes.txt")
+
 def gct(num):
     # only course materials used
     num = int(num)
@@ -78,4 +85,7 @@ def benford(file):
 
     print("count digit = {}".format(count_digit))
     print("count_total = {}".format(count_total))
-    print(count_digit / count_total)
+    print(count_digit/count_total)
+
+
+main()
